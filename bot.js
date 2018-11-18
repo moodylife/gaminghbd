@@ -28,7 +28,7 @@ client.on('ready', () => {
 });
 client.on('ready', async() => {
 var server = "513731008592347146"; 
-var channel = "513731008592347150";
+var channel = "513736051228016651";
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send('**Omar.Omar.Omar.Omar.Omar.Omar.Omar.Omar.Omar.Omar.Omar.Omar.Omar.Omar.Omar.Omar.Omar.Omar.Omar.Omar.Omar.Omar.Omar.Omar.Omar.** ')
     },305);
@@ -36,7 +36,7 @@ var channel = "513731008592347150";
 
 client.on('ready', async() => {
 var server = "513731008592347146"; 
-var channel = "513731008592347150";
+var channel = "513736051228016651";
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send('#daily')
     },86400);
